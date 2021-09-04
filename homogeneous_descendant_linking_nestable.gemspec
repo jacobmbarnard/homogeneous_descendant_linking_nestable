@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
     s.authors = ["Jacob Barnard"]
     s.email = "jmbarnardg1@gmail.com"
     s.files = Dir.glob("lib/**/*", File::FNM_DOTMATCH)
-    s.homepage = "https://rubygems.org/gems/homoegeneous_descendant_linking_nestable"
+    s.homepage = "https://github.com/jmbarnardgh/homogeneous_descendant_linking_nestable"
     s.license = "Apache-2.0"
   end
   
